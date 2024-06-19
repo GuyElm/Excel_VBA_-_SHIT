@@ -9,3 +9,7 @@ the code is hidden and blocked by a password.
 the password will be given only to the persons i want to give it to them
 
 this code was made by GuyElm - 16.05.24
+
+
+19.06.24 - Added a new project to make reports as the client asked for through the VBA code 
+all the information is in the code
